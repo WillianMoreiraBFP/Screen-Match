@@ -87,4 +87,5 @@ public class Serie {
                 ", poster='" + poster + '\'' +
                 ", sinopse='" + sinopse + '\'';
     }
+    
 }
